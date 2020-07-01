@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-integration-tests"
+    }
+  },
+  "defaultProject": "angular-integration-tests",
+  "cli": {
+    "analytics": false
+  }
 }
